@@ -1,0 +1,20 @@
+{
+  "name": "pangaea",
+  "version": "1.0.0",
+  "homepage": "",
+  "authors": [
+    "Bazilskiy"
+  ],
+  "description": "landing page as addition to seamensway.com",
+  "moduleType": [
+    "globals"
+  ],
+  "license": "",
+  "dependencies": {
+    "normalize.css": "*",
+    "jquery": "2.*",
+    "bootstrap-sass": "^3.3.7",
+    "animate.css": "^3.5.2",
+    "waypoints": "^4.0.1"
+  }
+}

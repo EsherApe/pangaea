@@ -1,0 +1,26 @@
+{
+  "name": "frontend-devil",
+  "version": "1.0.1",
+  "description": "Devil boilerplate for html+js+css apps",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Insayt/frontend-devil"
+  },
+  "dependencies": {
+    "browser-sync": "^2.17.0",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-clean-css": "^2.0.13",
+    "gulp-imagemin": "^3.0.3",
+    "gulp-rigger": "^0.5.8",
+    "gulp-sass": "^2.3.2",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-uglify": "^2.0.0",
+    "gulp-watch": "^4.3.10",
+    "imagemin-gifsicle": "^5.1.0",
+    "imagemin-optipng": "^5.2.1",
+    "imagemin-pngquant": "^5.0.0",
+    "ngrok": "^2.2.3",
+    "rimraf": "^2.5.4"
+  }
+}
